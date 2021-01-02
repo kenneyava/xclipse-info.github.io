@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/VideoItem.css"],"names":[],"mappings":"AAAA,YACI,cACJ","file":"main.b2028e0a.chunk.css","sourcesContent":[".video-item {\n    cursor:pointer;\n}"]}
